@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="CPRG211_FinalProject.app/Contents/MacOS/CPRG211_FinalProject">
+      <BCSymbolMapName>CPRG211_FinalProject.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>CPRG211_FinalProject.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/kevin1222/Desktop/SAIT/Winter_2023/CPRG_211_G/CPRG_211_GP4/CPRG211_FinalProject/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>CPRG211_FinalProject.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/kevin1222/Desktop/SAIT/Winter_2023/CPRG_211_G/CPRG_211_GP4/CPRG211_FinalProject</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
